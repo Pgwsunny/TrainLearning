@@ -1,0 +1,2 @@
+https://jingyan.baidu.com/article/00a07f38706f0b82d028dcf3.html
+按照教程进行到第四步在cmd命令行能输出gradle版本号即说明安装完成，可以不进行接下来的步骤。
